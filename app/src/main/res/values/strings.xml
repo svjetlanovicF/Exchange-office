@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mjenjačnica</string>
+    <string name="euro">Euro</string>
+    <string name="dolar">Am.dolar</string>
+    <string name="krune">Šved.krune</string>
+    <string name="kune">Kune</string>
+    <string name="franak">Franak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
